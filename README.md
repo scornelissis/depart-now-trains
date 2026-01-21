@@ -31,3 +31,8 @@ const char* password = "wifi_password";
 
 - Run a https server instead of an http server so that the browser can ask location of the user through geolocation api to get a dynamic location
 - Save destination and time in EEPROM since a lot of trains ride on the same hours every day no reconfiguration would need to happen through the browser
+
+## DEMO
+
+link: https://youtu.be/mYkUg-PimvI
+*Note*: The IRail api has its hiccups hence the long waiting time...
